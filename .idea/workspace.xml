@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7f34297-469d-4de5-b202-50213fbf69f2" name="Changes" comment="" />
+    <list default="true" id="a7f34297-469d-4de5-b202-50213fbf69f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/CouldNotCreateFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/CouldNotOpenFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/DBCreationErrorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/DataBaseOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectBirthDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectGenderFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectInputDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectLastNameFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectNameFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectPhoneNumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/exceptions/IncorrectSecondNameFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/model/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/utils/DBConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone_book/view/Viewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phone_book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone_book/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Uw6i5Yp2EbrzrxUHBNBXhsPLe1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +55,44 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Татьяна Калашникова/CODE/JAVA/OOP/OOP_HOMEWORK7"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Татьяна Калашникова/CODE/JAVA/OOP/OOP_HOMEWORK5"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phone_book.Main" />
+      <module name="IH_HOMEWORK3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phone_book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phone_book.model.Person" />
+      <module name="IH_HOMEWORK3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phone_book.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Person" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
